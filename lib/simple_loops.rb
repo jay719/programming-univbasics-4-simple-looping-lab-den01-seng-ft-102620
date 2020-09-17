@@ -29,5 +29,4 @@ def return_string_array(array)
     array[count] = array[count].to_s
     count += 1
   end
-  array
 end
